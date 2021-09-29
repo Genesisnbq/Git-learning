@@ -35,3 +35,14 @@ git rebase -i 9c6861
 
 ![4.jpg](https://i.loli.net/2021/09/29/oIQCVrSHBpM576W.jpg)
 
+
+
+## 3. 自己的总结
+
+1. `git log --oneline`
+
+![2.jpg](https://i.loli.net/2021/09/29/365HsWXNj7CIaoY.jpg)
+
+2. 在上面的是比较古老的commit， 因此将下面每个pick改为s， 即可融合（meld）
+3. 最后给这一次变更填写一个理由（Create a combination of 4 commits.
+
