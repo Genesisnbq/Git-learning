@@ -1,7 +1,7 @@
 <!--
  * @Author: Binqi Ni
  * @Date: 2021-09-23 15:43:15
- * @LastEditTime: 2021-09-23 21:48:52
+ * @LastEditTime: 2021-10-01 19:18:53
  * @LastEditors: Binqi Ni
  * @FilePath: /Git-learning/01_Git基础(13讲)/11_小练习_数一数tree的个数.md
 -->
@@ -18,12 +18,10 @@
 
 Q&A
 
->1. 最后那个小练习，为什么中间需要有2个tree，一个tree不可以吗？多个tree的原因是什么？
+> 最后那个小练习，为什么中间需要有2个tree，一个tree不可以吗？多个tree的原因是什么？
 >
 >   作者回复: 让blob成为基础组件，可以利用树把多个文件特定版本对应的blob进行灵活的组装。
 >
 >   blob（代表文件的内容）可以充分地被复用。
 >
->2. 
-
-
+>
